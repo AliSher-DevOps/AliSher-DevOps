@@ -84,8 +84,8 @@ https://www.researchgate.net/publication/362761222_Traffic_Pattern_Plot_Video_Id
 
 ## 🎓 Education
 
-**[Your Degree, e.g. Bachelor of Computer Science]**
-[University Name] — [City, Pakistan]
+**Bachelor of Computer Science**
+COMSATS University Islamabad — Abbottabad Campus
 
 ---
 
