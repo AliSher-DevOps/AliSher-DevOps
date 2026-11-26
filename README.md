@@ -1,14 +1,10 @@
-# 👨‍💻 Ali Sher Kamal
+# Ali Sher Kamal
 
 **Senior Full Stack Developer | Laravel, Django, React.js, Vue.js | AWS**
 *Engineering Scalable, Secure, and Future-Ready Web Solutions — Design. Develop. Deploy. Deliver.*
-📍 Abbottabad, Khyber Pakhtunkhwa, Pakistan
+Abbottabad, Khyber Pakhtunkhwa, Pakistan
 
-📧 **Email:** alisherkamal13101@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/ali-sher-kamal-1836151a0/
-🐙 **GitHub:** https://github.com/AliSher-DevOps
-💼 **Fiverr:** https://www.fiverr.com/alisherkamal96
-🌍 **Upwork:** https://www.upwork.com/freelancers/~01ca81827e2b5dfa41
+[Email](mailto:alisherkamal13101@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ali-sher-kamal-1836151a0/) · [GitHub](https://github.com/AliSher-DevOps) · [Fiverr](https://www.fiverr.com/alisherkamal96) · [Upwork](https://www.upwork.com/freelancers/~01ca81827e2b5dfa41)
 
 ---
 
@@ -20,7 +16,7 @@ I am currently a Senior Full Stack Developer at **JMM Technologies** (full-time)
 
 ---
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 
 - **Backend Development:** PHP, Laravel, CodeIgniter, Python, Django, Django REST Framework
 - **Frontend Technologies:** React.js, Vue.js, JavaScript, HTML5, CSS3, Bootstrap
@@ -34,40 +30,40 @@ I am currently a Senior Full Stack Developer at **JMM Technologies** (full-time)
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 🔹 JMM Technologies — Full-time (4 yrs 6 mos)
+### JMM Technologies — Full-time (4 yrs 6 mos)
 
-**Senior Full Stack Developer** — *May 2025 — Present · Remote*
+**Senior Full Stack Developer** — *May 2025 – Present · Remote*
 - Building and maintaining full-stack web applications with Laravel and Moodle
 - Working on ERP, CRM and student management systems
 
-**Mid Full Stack Developer** — *Sep 2023 — May 2025 · Peshawar, Pakistan (Hybrid)*
+**Mid Full Stack Developer** — *Sep 2023 – May 2025 · Peshawar, Pakistan (Hybrid)*
 - Full-stack development with Laravel and Vue.js / React.js
 - Deployments and hosting on AWS EC2
 
-**Laravel Developer** — *Jun 2022 — Sep 2023 · Peshawar, Pakistan (On-site)*
+**Laravel Developer** — *Jun 2022 – Sep 2023 · Peshawar, Pakistan (On-site)*
 - Built robust, scalable web applications with PHP and Laravel
 - Database management and API integration
 - Collaborated with cross-functional teams to deliver projects
 
-### 🔹 Lead Software Engineer — Moovmynt Technology Inc. (Canada, Remote · Part-time)
-*Sep 2024 — Present*
+### Lead Software Engineer — Moovmynt Technology Inc. (Canada, Remote · Part-time)
+*Sep 2024 – Present*
 
 - Lead and mentor a team of 2 developers
 - Built a modern company website with React.js
 - Built an AI-integrated real estate web application with Django and React — housing records, verified ROI tracking and real-time project updates
 - Responsible for technical leadership, architecture decisions and hands-on development
 
-### 🔹 Research Assistant — HEC Pakistan / NCCS, COMSATS University Islamabad (Abbottabad Campus)
-*Aug 2021 — Jun 2022*
+### Research Assistant — HEC Pakistan / NCCS, COMSATS University Islamabad (Abbottabad Campus)
+*Aug 2021 – Jun 2022*
 
 - Worked on the HEC-funded project **"Ads and Malicious Content Observatory for Social Media"** at the National Center for Cyber Security (NCCS)
 - Supervised by Dr. Muhammad Usman Shahid Khan
 - Developed with CodeIgniter and REST APIs — [adobservatory.com](https://adobservatory.com/)
 
-### 🔹 Back End Developer — InteliBizzSolutions (Contract · Hybrid)
-*Oct 2020 — Aug 2021*
+### Back End Developer — InteliBizzSolutions (Contract · Hybrid)
+*Oct 2020 – Aug 2021*
 
 - Full-stack developer on **CReview**, a platform for managing user reviews, sentiment analysis and automated responses on Google Play and the Apple App Store
 - Front-end design, back-end API design and RESTful APIs with Django
@@ -75,58 +71,60 @@ I am currently a Senior Full Stack Developer at **JMM Technologies** (full-time)
 
 ---
 
-## 📄 Research
+## Research
 
 **Traffic Pattern Plot: Video Identification in Encrypted Network Traffic**
-https://www.researchgate.net/publication/362761222_Traffic_Pattern_Plot_Video_Identification_in_Encrypted_Network_Traffic
+[Read on ResearchGate](https://www.researchgate.net/publication/362761222_Traffic_Pattern_Plot_Video_Identification_in_Encrypted_Network_Traffic)
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Computer Science**
 COMSATS University Islamabad — Abbottabad Campus
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **MoovMynt – AI-Driven Real Estate Platform**
 Housing records, verified ROI tracking and real-time project updates.
-https://moovmynt.com
+[moovmynt.com](https://moovmynt.com)
+
+**Canada-Now – B2B Marketplace for Canadian Businesses**
+Marketplace connecting businesses across North America: find companies, explore their products, request samples, make insured purchases and connect through end-to-end encrypted live chat.
+[canada-now.com](https://canada-now.com)
 
 **Ads & Malicious Content Observatory for Social Media**
 HEC-funded research platform at NCCS.
-https://adobservatory.com
+[adobservatory.com](https://adobservatory.com)
 
 **CReview – App Review & Sentiment Analysis Platform**
 Android developers collect customer reviews, run sentiment analysis and generate automated responses.
-https://github.com/AliSher-DevOps/CReview
+[GitHub](https://github.com/AliSher-DevOps/CReview)
 
 **ChatBot for Twitter in Python**
 Twitter chatbot built with Transformers and Selenium.
-https://github.com/AliSher-DevOps/ChatBot-For-Twitter-In-Python
+[GitHub](https://github.com/AliSher-DevOps/ChatBot-For-Twitter-In-Python)
 
 **Google Play Reviews API in Python**
 Fetches Google Play Store app reviews using a service account.
-https://github.com/AliSher-DevOps/Google-Review-All-API-In-Python
+[GitHub](https://github.com/AliSher-DevOps/Google-Review-All-API-In-Python)
 
 **Google Translation API**
 Detects language and translates text into English.
-https://github.com/AliSher-DevOps/Google-Translation-API
+[GitHub](https://github.com/AliSher-DevOps/Google-Translation-API)
 
 **PayPal Integration with Django**
 Payment integration in a Django app using a PayPal sandbox account.
-https://github.com/AliSher-DevOps/paypal-integration-djnago-python
+[GitHub](https://github.com/AliSher-DevOps/paypal-integration-djnago-python)
 
 **WhatsApp Bot**
 Sends messages to numbers from a CSV file using Selenium.
-https://github.com/AliSher-DevOps/WhatsappBot
+[GitHub](https://github.com/AliSher-DevOps/WhatsappBot)
 
 ---
 
-## 📬 Contact
+## Contact
 
-If you'd like to collaborate, discuss full-stack development, AI/ML, or hire me for a project, feel free to reach out:
-📧 alisherkamal13101@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-sher-kamal-1836151a0/) · 💼 [Fiverr](https://www.fiverr.com/alisherkamal96) · 🌍 [Upwork](https://www.upwork.com/freelancers/~01ca81827e2b5dfa41)
+If you'd like to collaborate, discuss full-stack development, AI/ML, or hire me for a project, feel free to reach out at **alisherkamal13101@gmail.com**, or find me on [LinkedIn](https://www.linkedin.com/in/ali-sher-kamal-1836151a0/), [Fiverr](https://www.fiverr.com/alisherkamal96) and [Upwork](https://www.upwork.com/freelancers/~01ca81827e2b5dfa41).
