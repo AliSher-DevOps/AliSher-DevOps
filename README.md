@@ -87,41 +87,15 @@ COMSATS University Islamabad — Abbottabad Campus
 
 ## Featured Projects
 
-**MoovMynt – AI-Driven Real Estate Platform**
-Housing records, verified ROI tracking and real-time project updates.
-[moovmynt.com](https://moovmynt.com)
-
-**Canada-Now – B2B Marketplace for Canadian Businesses**
-Marketplace connecting businesses across North America: find companies, explore their products, request samples, make insured purchases and connect through end-to-end encrypted live chat.
-[canada-now.com](https://canada-now.com)
-
-**Ads & Malicious Content Observatory for Social Media**
-HEC-funded research platform at NCCS.
-[adobservatory.com](https://adobservatory.com)
-
-**CReview – App Review & Sentiment Analysis Platform**
-Android developers collect customer reviews, run sentiment analysis and generate automated responses.
-[GitHub](https://github.com/AliSher-DevOps/CReview)
-
-**ChatBot for Twitter in Python**
-Twitter chatbot built with Transformers and Selenium.
-[GitHub](https://github.com/AliSher-DevOps/ChatBot-For-Twitter-In-Python)
-
-**Google Play Reviews API in Python**
-Fetches Google Play Store app reviews using a service account.
-[GitHub](https://github.com/AliSher-DevOps/Google-Review-All-API-In-Python)
-
-**Google Translation API**
-Detects language and translates text into English.
-[GitHub](https://github.com/AliSher-DevOps/Google-Translation-API)
-
-**PayPal Integration with Django**
-Payment integration in a Django app using a PayPal sandbox account.
-[GitHub](https://github.com/AliSher-DevOps/paypal-integration-djnago-python)
-
-**WhatsApp Bot**
-Sends messages to numbers from a CSV file using Selenium.
-[GitHub](https://github.com/AliSher-DevOps/WhatsappBot)
+- **[MoovMynt](https://moovmynt.com)** – AI-driven real estate platform with housing records, verified ROI tracking and real-time project updates.
+- **[Canada-Now](https://canada-now.com)** – B2B marketplace for Canadian businesses: find companies, explore products, request samples, make insured purchases and use end-to-end encrypted live chat.
+- **[Ads & Malicious Content Observatory](https://adobservatory.com)** – HEC-funded research platform for social media at NCCS.
+- **[CReview](https://github.com/AliSher-DevOps/CReview)** – App review and sentiment analysis platform that generates automated responses for Android developers.
+- **[ChatBot for Twitter](https://github.com/AliSher-DevOps/ChatBot-For-Twitter-In-Python)** – Twitter chatbot built with Transformers and Selenium.
+- **[Google Play Reviews API](https://github.com/AliSher-DevOps/Google-Review-All-API-In-Python)** – Fetches Google Play Store app reviews using a service account.
+- **[Google Translation API](https://github.com/AliSher-DevOps/Google-Translation-API)** – Detects language and translates text into English.
+- **[PayPal Integration with Django](https://github.com/AliSher-DevOps/paypal-integration-djnago-python)** – Payment integration in a Django app using a PayPal sandbox account.
+- **[WhatsApp Bot](https://github.com/AliSher-DevOps/WhatsappBot)** – Sends messages to numbers from a CSV file using Selenium.
 
 ---
 
